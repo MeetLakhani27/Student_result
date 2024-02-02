@@ -1,0 +1,28 @@
+.head {
+  margin-left: 50px;
+}
+
+.box-1 {
+  width: 600px;
+  margin: 50px;
+  background-color:antiquewhite;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.save {
+  width: 150px !important;
+  height: 40px !important;
+  margin: 20px;
+}
+
+.table {
+  margin: 50px ;
+  background-color: white;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.tr td {
+  text-align: center;
+}
